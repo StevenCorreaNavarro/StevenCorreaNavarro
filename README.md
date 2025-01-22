@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center "><h1>Hola, soy Steven 👋 </h1> </div>
-<img src="https://github.com/StevenCorreaNavarro/StevenCorrea/blob/main/Steven.png">
+<img src="https://github.com/StevenCorreaNavarro/StevenCorrea/blob/main/Banner.png">
 <div align=center>
     <a href="https://www.facebook.com/steven.navarrobrt"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
    <a href="https://www.instagram.com/stevencorrea9556/"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
