@@ -33,6 +33,8 @@ Here are some ideas to get you started:
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000"/> </a>
+    
     
 
 </p>
