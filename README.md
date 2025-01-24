@@ -20,6 +20,18 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/steven.navarrobrt"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
    <a href="https://www.instagram.com/stevencorrea9556/"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
 </div>
+    <div>
+        <h3>sigo aprendiendo </h3>
+        <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+
+</p>
+    </div>
    <div align=left>
         <br>
         <p>
@@ -35,4 +47,5 @@ Here are some ideas to get you started:
                   vida</a>.</li>
         </ul>
     </div>
+
 
