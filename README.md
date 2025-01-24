@@ -32,8 +32,11 @@ Here are some ideas to get you started:
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="XAMPP" height="55"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" alt="XAMPP" height="55"/> </a>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /> 
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="55" /> 
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /> 
     
     
 
