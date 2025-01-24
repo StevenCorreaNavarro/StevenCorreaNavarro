@@ -53,8 +53,8 @@ Here are some ideas to get you started:
         <ul>
             <li>🌱 <b>Actualmente estoy aoprendiendo</b>: Analisis y desarrollo de software en el Sena Regional Cauca.</li>
             <li>🎯 <b>Actualmente me enfoco en</b>: reolucion de problemas🤩.</li>
-            <li>🤔 <b>Actualmente estoy abierto a </b>: Una nueva oportunidad laboral, <a href="https://flowcv.com/resume/41qn0brsk4">Mi hoja de 
-                  vida</a>.</li>
+            <li>🤔 <b>Actualmente estoy abierto a </b>: Una nueva oportunidad laboral, <a href="https://flowcv.com/resume/41qn0brsk4">Mi hoja de vida</a>.</li>
+            <li>⚡ <b>Dato curioso</b>:Me gustan las motos 🤩.</li>
         </ul>
     </div>
 
