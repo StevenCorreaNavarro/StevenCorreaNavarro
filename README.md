@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div align=center>
     <h3>Contactame!⤵️⤵️⤵️ </h3>
-    <a href="https://www.facebook.com/steven.navarrobrt" target="blank"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
-   <a href="https://www.instagram.com/stevencorrea9556/" target="blank"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
+    <a href="https://www.facebook.com/steven.navarrobrt" target="_blank"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
+   <a href="https://www.instagram.com/stevencorrea9556/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
      <a href="https://www.linkedin.com/in/steven-correa-685145349/" target="_blank">  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
     <a href="mailto:garfield9556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=garfield9556@gmail.com mail style="margin-bottom: 5px;" />
 </a>
