@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 
 <div align= "center "><h1>Hola, soy Steven 👋 </h1> </div>
 <img src="https://github.com/StevenCorreaNavarro/StevenCorreaNavarro/blob/main/Banner.png">
+
+
 <div align=center>
-    <a href="https://www.facebook.com/steven.navarrobrt"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
-   <a href="https://www.instagram.com/stevencorrea9556/"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
+    <h3>Contactame!⤵️⤵️⤵️ </h3>
+    <a href="https://www.facebook.com/steven.navarrobrt" target="_blank"><img src="https://img.shields.io/badge/facebook-0077b5?style=flat&logo=facebook" alt="" /></a>
+   <a href="https://www.instagram.com/stevencorrea9556/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram" alt="" /></a>
+     <a href="https://www.linkedin.com/in/steven-correa-685145349/" target="_blank">  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+    <a href="mailto:garfield9556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=garfield9556@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 </div>
     <div>
-        <h3>sigo aprendiendo </h3>
+        <h3>Sigo aprendiendo!... </h3>
         <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
